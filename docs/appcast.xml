@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Scripta for Windows Appcast</title>
+    <title>Scripta for Windows Updates</title>
     <link>https://yamonov.github.io/ScriptaForWindows/appcast.xml</link>
-    <description>Update feed for Scripta for Windows.</description>
+    <description>Updates for Scripta for Windows.</description>
+    <language>ja</language>
+    <item>
+      <title>Scripta 0.4.0-alpha</title>
+      <sparkle:version>0.4.0.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0.0</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/Yamonov/ScriptaForWindows/releases/tag/v0.4.0-alpha</sparkle:releaseNotesLink>
+      <pubDate>Thu, 11 Jun 2026 01:38:07 GMT</pubDate>
+      <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.0-alpha/Scripta-Installer-0.4.0-alpha.exe" type="application/octet-stream" sparkle:edSignature="unTw7SOfjpSiLO/Xw2hW6DVmE3wt1AfBP7Qt7IHMsQxISJsv5XYlPk1CToqs3pWgbDyGM3MMyI7toUnRyOH7Ag==" />
+    </item>
   </channel>
 </rss>
