@@ -10,8 +10,8 @@
       <sparkle:version>0.4.0.0</sparkle:version>
       <sparkle:shortVersionString>0.4.0.0</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>https://github.com/Yamonov/ScriptaForWindows/releases/tag/v0.4.0-alpha</sparkle:releaseNotesLink>
-      <pubDate>Thu, 11 Jun 2026 03:26:50 GMT</pubDate>
-      <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.0-alpha/Scripta-Installer-0.4.0-alpha.exe" type="application/octet-stream" sparkle:edSignature="OM6a0B7qRjzsWlDiaOSp/AB3FkTtybAl3ncan4GMNsm3SM9C1hHlKss4iB2eVj1TaHPze+GJQAGnEqwe9LaxDw==" />
+      <pubDate>Thu, 11 Jun 2026 04:21:43 GMT</pubDate>
+      <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.0-alpha/Scripta-Installer-0.4.0-alpha.exe" type="application/octet-stream" sparkle:edSignature="2i6uX2rdzKk78PwFWvA/i5WDcaXIspZp145w6s9+uGViaGwG8r/H1aHnNxsMZzT028BAJOXzj/Au04VDfetuAg==" />
     </item>
   </channel>
 </rss>
