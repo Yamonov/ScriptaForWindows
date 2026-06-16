@@ -6,12 +6,17 @@
     <description>Updates for Scripta for Windows.</description>
     <language>ja</language>
     <item>
-      <title>Scripta for Windows 0.4.0 alpha</title>
-      <sparkle:version>0.4.0.0</sparkle:version>
-      <sparkle:shortVersionString>0.4.0.0</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/Yamonov/ScriptaForWindows/releases/tag/v0.4.0-alpha</sparkle:releaseNotesLink>
-      <pubDate>Thu, 11 Jun 2026 04:37:57 GMT</pubDate>
-      <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.0-alpha/Scripta-Installer-0.4.0-alpha.exe" type="application/octet-stream" sparkle:edSignature="EdopKdW3WE+RUkm0jHD5yfOALvhRiIl7FDgHjxFd/UPu6sIRm3Se5Hl7lLSEreN3uGcjoO19Q9k/G+I9RT/ECg==" />
+      <title>Scripta for Windows 0.4.4 alpha</title>
+      <sparkle:version>0.4.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.4.0</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/Yamonov/ScriptaForWindows/releases/tag/v0.4.4-alpha</sparkle:releaseNotesLink>
+      <description><![CDATA[<h2>バグフィックス</h2>
+<ul>
+  <li>前面アプリを取得する方法を簡略化し、バックグラウンドアプリを刺激しないようにしました。</li>
+  <li>ピン留めの挙動を修正しました。アプリを切り替えたときにピン留めを前のアプリから引き継ぎません。</li>
+</ul>]]></description>
+      <pubDate>Tue, 16 Jun 2026 01:51:58 GMT</pubDate>
+      <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.4-alpha/Scripta-Installer-0.4.4-alpha.exe" type="application/octet-stream" sparkle:edSignature="mh1ud2h+zI/M9O+BW12G8r81H3VpR4dKC93cNhISets2BU6OItF74X9n2JnSm/4fvw+sn4torCZfAxOFJwVoDw==" />
     </item>
   </channel>
 </rss>
