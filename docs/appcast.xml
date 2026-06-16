@@ -9,13 +9,10 @@
       <title>Scripta for Windows 0.4.4 alpha</title>
       <sparkle:version>0.4.4.0</sparkle:version>
       <sparkle:shortVersionString>0.4.4.0</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://yamonov.github.io/ScriptaForWindows/releases/v0.4.4-alpha.html</sparkle:releaseNotesLink>
-      <description><![CDATA[<h2>バグフィックス</h2>
-<ul>
-  <li>前面アプリを取得する方法を簡略化し、バックグラウンドアプリを刺激しないようにしました。</li>
-  <li>ピン留めの挙動を修正しました。アプリを切り替えたときにピン留めを前のアプリから引き継ぎません。</li>
-</ul>]]></description>
-      <pubDate>Tue, 16 Jun 2026 02:02:46 GMT</pubDate>
+      <description>バグフィックス
+- 前面アプリを取得する方法を簡略化し、バックグラウンドアプリを刺激しないようにしました。
+- ピン留めの挙動を修正しました。アプリを切り替えたときにピン留めを前のアプリから引き継ぎません。</description>
+      <pubDate>Tue, 16 Jun 2026 02:07:30 GMT</pubDate>
       <enclosure url="https://github.com/Yamonov/ScriptaForWindows/releases/download/v0.4.4-alpha/Scripta-Installer-0.4.4-alpha.exe" type="application/octet-stream" sparkle:edSignature="mh1ud2h+zI/M9O+BW12G8r81H3VpR4dKC93cNhISets2BU6OItF74X9n2JnSm/4fvw+sn4torCZfAxOFJwVoDw==" />
     </item>
   </channel>
